@@ -4,7 +4,7 @@
 Install with:
 
 ```sh
-; curl https://raw.githubusercontent.com/ostera/dotfiles/main/remote-install.sh | sh - 
+; curl https://raw.githubusercontent.com/oco-adam/dotfiles/main/remote-install.sh | sh - 
 ```
 
 Very no-nonsense stuff.
