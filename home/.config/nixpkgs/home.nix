@@ -5,7 +5,7 @@
 
   nixpkgs.config.allowUnfree = true;
   nixpkgs.config.allowUnsupportedSystem = true;
-  nixpkgs.config.trustedUsers = ["root" "ostera" "leostera"];
+  nixpkgs.config.trustedUsers = ["root" "adam" "adamharris" "Adam"];
   nixpkgs.config.extraNixPath = ["nixpkgs=flake:nixpkgs"];
 
   services.nix-daemon.enable = true;
