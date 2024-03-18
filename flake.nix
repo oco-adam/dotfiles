@@ -1,5 +1,5 @@
 {
-  description = "cerritosh";
+  description = "Adams-Mac-mini";
 
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixpkgs-23.05-darwin";
@@ -8,7 +8,7 @@
   };
 
   outputs = inputs@{ self, nix-darwin, nixpkgs }: {
-    darwinConfigurations."cerritosh" = nix-darwin.lib.darwinSystem {
+    darwinConfigurations."Adams-Mac-mini" = nix-darwin.lib.darwinSystem {
       modules = [
         ./home/.config/nixpkgs/home.nix
         ./home/.config/nixpkgs/darwin/configuration.nix
