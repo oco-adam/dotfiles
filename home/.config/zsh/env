@@ -23,7 +23,7 @@ export FZF_DEFAULT_DIRECTORY_COMMAND="\
   "
 
 export XDG_CONFIG_PATH="${XDG_CONFIG_PATH}:~/.config"
-export ANDROID_HOME=/home/ostera/Android/Sdk/
+export ANDROID_HOME=/home/adamharris/Android/Sdk/
 export CLASS_PATH="$CLASS_PATH:${HOME}/.tla"
 export EDITOR=vim
 export GCLOUD_CONFIG=~/.config/gcloud
