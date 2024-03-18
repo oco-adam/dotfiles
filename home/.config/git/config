@@ -1,10 +1,10 @@
 [user]
-  name = Leandro Ostera
-  email = leandro@abstractmachines.dev
+  name = Adam Harris
+  email = adam@omnified.io
 	signingkey = ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHtw0I3+2bdzPl234KQTVhBqHXCnDvlOf/2xn+ATKyZj
 
 [github]
-  user = ostera
+  user = oco-adam
 
 [gpg]
   format = ssh
